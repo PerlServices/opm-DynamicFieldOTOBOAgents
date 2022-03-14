@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<otobo_package version="1.0">
+    <!-- GENERATED WITH OPM::Maker::Command::sopm (1.1.0) -->
+    <Name>DynamicFieldOTOBOAgents</Name>
+    <Version>10.0.1</Version>
+    <Framework>10.0.x</Framework>
+    <Framework>10.1.x</Framework>
+    <Vendor>Perl-Services.de</Vendor>
+    <URL>http://www.perl-services.de</URL>
+    <Description Lang="de">OTOBO-Agenten in einem Dropdown (Dynamisches Feld)</Description>
+    <Description Lang="en">OTOBO agents in a dropdown DynamicField</Description>
+    <License>GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007</License>
+    <Filelist>
+        <File Permission="644" Location="Custom/Kernel/Modules/AdminDynamicFieldOTOBOAgents.pm" />
+        <File Permission="644" Location="Custom/Kernel/Output/HTML/Templates/Standard/AdminDynamicFieldOTOBOAgents.tt" />
+        <File Permission="644" Location="Custom/Kernel/System/DynamicField/Driver/OTOBOAgents.pm" />
+        <File Permission="644" Location="Kernel/Config/Files/XML/DynamicFieldOTOBOAgents.xml" />
+        <File Permission="644" Location="Kernel/Language/de_DynamicFieldOTOBOAgents.pm" />
+        <File Permission="644" Location="doc/DynamicFieldOTOBOAgents.json" />
+        <File Permission="644" Location="doc/en/DynamicFieldOTOBOAgents.pod" />
+    </Filelist>
+</otobo_package>
