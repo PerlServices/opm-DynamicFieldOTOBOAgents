@@ -1,0 +1,24 @@
+=encoding utf-8
+
+=head1 NAME
+
+DynamicFieldOTOBOAgents
+
+=head1 DESCRIPTION
+
+This addon allows you to define DynamicFields that lists all (valid) OTOBO agents in the dropdown.
+Currently this addon supports only single selects.
+
+=head1 REPOSITORY AND BUGTRACKER
+
+The code repository and a bugtracker can be found at L<http://github.com/reneeb/opm-DynamicFieldOTOBOAgents>.
+
+=head1 SUPPORT
+
+If you need further support, want to pay for a feature or any OTOBO services, please drop me a line at
+L<info@perl-services.de>.
+
+=head1 AUTHOR
+
+(c) 2022 Renée Bäcker, C<info@perl-services.de>
+

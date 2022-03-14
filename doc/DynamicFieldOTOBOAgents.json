@@ -1,0 +1,18 @@
+{
+    "name": "DynamicFieldOTOBOAgents",
+    "version": "10.0.1",
+    "product": "otobo",
+    "framework": [
+        "10.0.x",
+        "10.1.x"
+    ],
+    "vendor": {
+        "name":  "Perl-Services.de",
+        "url": "http://www.perl-services.de"
+    },
+    "license": "GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007",
+    "description" : {
+        "en": "OTOBO agents in a dropdown DynamicField",
+        "de": "OTOBO-Agenten in einem Dropdown (Dynamisches Feld)"
+    }
+}
