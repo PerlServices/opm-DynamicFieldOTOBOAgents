@@ -11,7 +11,7 @@ Currently this addon supports only single selects.
 
 =head1 REPOSITORY AND BUGTRACKER
 
-The code repository and a bugtracker can be found at L<http://github.com/reneeb/opm-DynamicFieldOTOBOAgents>.
+The code repository and a bugtracker can be found at L<http://github.com/perlservices/opm-DynamicFieldOTOBOAgents>.
 
 =head1 SUPPORT
 
